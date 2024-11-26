@@ -1,21 +1,22 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+sidebar: false
 
 hero:
   name: "My Knowledge Project"
   text: "A Knowledge Site"
   tagline: My personal work knowledge base
   image:
-    src: src/public/logo-v1.webp
+    src: ../public/logo-v1.webp
     alt: Knowledge Project
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /markdown-examples
+      link: /guide/markdown-examples
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /guide/api-examples
 
 features:
   - icon: 🚀
