@@ -42,10 +42,18 @@ export const zh = defineConfig({
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
     return [
         {
+            collapsed: false,
             text: '例子',
             items: [
                 { text: 'Markdown 例子', link: 'markdown-examples' },
                 { text: '运行时API例子', link: 'api-examples' }
+            ]
+        },
+        {
+            text: '基础',
+            items: [
+                { text: '例子1', link: 'base/test1' },
+                { text: '例子2', link: 'base/test2' },
             ]
         }
     ]
