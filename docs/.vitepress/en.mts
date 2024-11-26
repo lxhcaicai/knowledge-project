@@ -2,7 +2,7 @@ import {DefaultTheme, defineConfig} from "vitepress";
 
 
 export const en = defineConfig({
-    description: 'Vben Admin & Enterprise level management system framework',
+    description: 'My Knowledge Project',
     lang: 'en-US',
     themeConfig: {
         darkModeSwitchLabel: 'Theme',
