@@ -20,13 +20,13 @@ hero:
 
 features:
   - icon: 🚀
-    title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: 特性A
+    details: 记录你的灵感,提高你的工作效率,沉淀你的能力
   - icon: 🦄
-    title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: 特性B
+    details: 记录你的灵感,提高你的工作效率,沉淀你的能力
   - icon: 🎨
-    title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: 特性C
+    details: 记录你的灵感,提高你的工作效率,沉淀你的能力
 ---
 

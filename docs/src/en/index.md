@@ -21,12 +21,12 @@ hero:
 features:
   - icon: 🚀
     title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Record your inspiration, increase your productivity, and precipitate your abilities
   - icon: 🦄
     title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Record your inspiration, increase your productivity, and precipitate your abilities
   - icon: 🎨
     title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Record your inspiration, increase your productivity, and precipitate your abilities
 ---
 

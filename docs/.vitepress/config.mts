@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 import {en} from './en.mjs'
-import {zh} from './zh.mjs'
+import {zh, search as zhSearch} from './zh.mjs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -29,6 +29,11 @@ export default defineConfig({
     ],
 
     search: {
+      options: {
+        locales: {
+          ...zhSearch,
+        },
+      },
       provider: 'local'
     },
   },
