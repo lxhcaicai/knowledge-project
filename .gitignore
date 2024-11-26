@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+**/.vitepress/cache
+node_modules
+dist
+
+package-lock.json
+
+# local env files
+.env.local
+
+
+# Editor directories and files
+.idea
