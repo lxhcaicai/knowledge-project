@@ -4,4 +4,7 @@ outline: deep
 
 # 测试例子2
 
-sdasda
+`sdasda`
+
+图片放大测试
+![img.png](img/img.png)
